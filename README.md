@@ -4,7 +4,7 @@ Spatio-temporal ML pipeline for predicting urban traffic demand
 using geohash-based spatial features and time-series lag modeling.
 
 ## Results
-- **R² Score**: 0.9617 (5-Fold CV)
+- **R² Score**: 0.9197 (5-Fold CV)
 - **Approach**: Dual-Model Blend (Lag-aware + Global LightGBM) 
   with Pseudo-Label Retraining
 
